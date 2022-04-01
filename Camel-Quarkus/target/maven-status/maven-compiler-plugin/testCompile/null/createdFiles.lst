@@ -1,0 +1,3 @@
+org\acme\kafka\KafkaTest.class
+org\acme\kafka\OrderTest.class
+org\acme\kafka\KafkaIT.class

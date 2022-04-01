@@ -1,0 +1,13 @@
+org\acme\routes\Routes$1.class
+org\acme\kafka\resource\OrderformResource.class
+org\acme\kafka\resource\KafkaResource.class
+org\acme\kafka\EmployeeProducer.class
+org\acme\domain\Orderform.class
+org\acme\kafka\EmployeeConsumer.class
+org\acme\kafka\OrderformProducer.class
+org\acme\routes\beans\OrderProcessingBean.class
+org\acme\domain\Employee.class
+org\acme\routes\Routes.class
+org\acme\routes\Routes$2.class
+org\acme\notification\SlackApp.class
+org\acme\kafka\resource\EmployeeResource.class
